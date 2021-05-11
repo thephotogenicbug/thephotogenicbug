@@ -29,4 +29,6 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![React Router](https://badges.aleen42.com/src/router.svg)
 ![Node](https://badges.aleen42.com/src/node.svg)
+![npm](https://badges.aleen42.com/src/npm.svg)
+
 
