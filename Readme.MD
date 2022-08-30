@@ -1,7 +1,7 @@
 ### Hi there I'm NaveenKumar 👋
 
-- 🌱 I’m a mern developer
-- 💬 Ask me about reactjs and and nodejs 
+- 🌱 I’m a web developer 
+- 💬 Ask me about reactjs
 - 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/-Naveenkumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naveen-kumar-b85416177/)](https://www.linkedin.com/in/naveen-kumar-b85416177/)
 
